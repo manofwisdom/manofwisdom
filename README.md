@@ -3,6 +3,25 @@
 # Alok Sharma
 
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aloks17/)
+ [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>](https://hunkwhocodes.com)
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="3.5%"/>](https://leetcode.com/manofwisdom/)
+ 
+ ### More about me:
+ 
+ I'm a Senior Software Engineer at a Unicorn Startup in NCR. I've 5.5+ years of work experience. I've a B.Tech degree in Computer Science and Engineering. 
+ 
+ 
+ ### Technical Stack:
+ - Programming Languages: Python, Java, SQL
+
+
+### Publications & Presentations:
+- Presented a poster of “An Exploratory Analysis of Cancer Incidence and Environmental Factors in India” at Annual Conventions of Indian Society of Remote Sensing.
+
+
+### Course Certificates
+- Programming, Data Structures and Algorithms - NPTEL, IIT Madras
+- Java for Android - Vanderbilt University via Coursera
 
 <!--
 **manofwisdom/manofwisdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
