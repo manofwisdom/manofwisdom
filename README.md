@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# Alok Sharma
+
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aloks17/)
+
 <!--
 **manofwisdom/manofwisdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
