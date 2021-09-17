@@ -10,7 +10,7 @@
  
  
  ### Technical Stack:
- - Programming Languages: Python, Java, SQL
+ - Programming Languages: Python, Java, SQL. 
 
 
 ### Publications & Presentations:
