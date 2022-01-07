@@ -19,7 +19,6 @@
 
 ### Course Certificates
 - Programming, Data Structures and Algorithms - NPTEL, IIT Madras
-- Java for Android - Vanderbilt University via Coursera
 
 <!--
 **manofwisdom/manofwisdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
