@@ -2,7 +2,6 @@
 
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aloks17/)
  [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>](https://hunkwhocodes.com)
- [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="3.5%"/>](https://leetcode.com/manofwisdom/)
  
  ### More about me:
  
