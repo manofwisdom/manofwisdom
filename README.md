@@ -16,7 +16,7 @@
 - Presented a poster of “An Exploratory Analysis of Cancer Incidence and Environmental Factors in India” at Annual Conventions of Indian Society of Remote Sensing.
 
 
-### Course Certificates
+### Certificates
 - Programming, Data Structures and Algorithms - NPTEL, IIT Madras
 
 <!--
