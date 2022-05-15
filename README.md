@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#  I'm Alok Sharma
+#  I'm Alok
 
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aloks17/)
  [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>](https://hunkwhocodes.com)
